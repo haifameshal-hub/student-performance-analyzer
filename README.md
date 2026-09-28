@@ -8,6 +8,10 @@ Student Performance Analyzer allows users to enter student names and scores and 
 
 This project was developed as part of my Python learning journey and demonstrates the practical use of Python fundamentals in a simple interactive application.
 
+## 🌐 Live Demo
+
+[Open Student Performance Analyzer](https://student-performance-analyzer-haifa.streamlit.app)
+
 ## ✨ Features
 
 - Add student names and scores
